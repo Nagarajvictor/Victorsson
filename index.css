@@ -1,0 +1,146 @@
+#logoc {
+  float: left;
+  width: 40%;
+  height: 70px;
+  text-align: center;
+}
+#logo {
+  position: fixed;
+  z-index: 10;
+  text-align: center;
+}
+#head {
+  background-color: black;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  position: sticky;
+  top: 0px;
+  border: 2px solid black;
+}
+
+#link {
+  height: 70px;
+  text-align: left;
+  line-height: 90px;
+  border: 5px solid black;
+}
+button {
+  text-align: center;
+}
+#button1 {
+  background-color: black;
+  color: whitesmoke;
+  height: 40px;
+  width: 70px;
+  text-decoration: none;
+}
+#button2 {
+  background-color: white;
+  color: black;
+  height: 40px;
+  width: 80px;
+  text-decoration: none;
+}
+#signup {
+  color: black;
+}
+#button6 {
+  background-color: white;
+  color: black;
+  height: 40px;
+  width: 80px;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  font-style: bold;
+}
+#login {
+  color: white;
+}
+
+.parallax {
+  background-image: url("table.jpg");
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#pizza {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+.p1 {
+  font-weight: 600;
+  font-style: italic;
+}
+.op {
+  color: white;
+  font-style: bold;
+}
+
+.button3 {
+  height: 70px;
+  width: 150px;
+  color: red;
+  background-color: orange;
+}
+#burger {
+  float: right;
+  width: 50%;
+  text-align: center;
+  margin-top: 90px;
+}
+.p2 {
+  text-align: right;
+  font-style: italic;
+  font-weight: 600;
+  padding-top: 90px;
+}
+.button4 {
+  height: 70px;
+  width: 150px;
+  color: red;
+  background-color: orange;
+  margin-left: 500px;
+  margin-bottom: 110px;
+}
+.ob {
+  color: white;
+}
+#cream {
+  margin-top: 20px;
+  float: left;
+  text-align: center;
+  width: 50%;
+}
+.p3 {
+  padding-top: 20px;
+  text-align: left;
+  font-style: italic;
+  font-weight: 600;
+  padding-top: 90px;
+}
+.button5 {
+  height: 70px;
+  width: 150px;
+  color: red;
+  background-color: orange;
+  margin-bottom: 100px;
+}
+.ic {
+  color: white;
+}
+
+#footer,
+#visit,
+#contact {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
