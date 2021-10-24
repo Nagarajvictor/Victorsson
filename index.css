@@ -144,3 +144,11 @@ a {
   padding-top: 20px;
   padding-bottom: 30px;
 }
+#survey {
+  background-color: aquamarine;
+  text-align: center;
+  padding: 20px 0px;
+  border-radius: 60%;
+  margin: 0px 40px 30px 40px;
+  font-size: 30px;
+}
