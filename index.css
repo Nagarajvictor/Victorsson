@@ -144,6 +144,10 @@ a {
   padding-top: 20px;
   padding-bottom: 30px;
 }
+video {
+  width: 300px;
+  height: 200px;
+}
 #survey {
   background-color: aquamarine;
   text-align: center;
